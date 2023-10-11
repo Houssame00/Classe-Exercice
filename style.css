@@ -1,0 +1,62 @@
+.partie1{
+    background-color: orange;
+    color: white;
+    padding-top: 10px;
+    width: auto;
+    height: 70px;
+    padding-left: 20px;
+}
+
+.container{
+    display: flex;
+}
+
+.menu{
+    width: 25%;
+    margin-left: 25px;
+}
+
+.menu > div{
+    height:30px;
+    align-items: center;
+}
+
+#html{
+    background-color: blue;
+    color: white;
+}
+#css{
+    background-color: blue;
+    color: white;
+}
+#js{
+    background-color: blue;
+    color: white;
+}
+#Bootstrap{
+    background-color: blue;
+    color: white;
+}
+
+.para1{
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 50%;
+}
+
+.aside{
+    width: 25%;
+    background-color: rgb(158, 158, 202);
+    color: white;
+    text-align: center;
+    
+}
+
+footer{
+    background-color: greenyellow;
+    height: 50px;
+    align-self: center;
+    padding-top: 1px;
+    padding-left: 25px;
+    margin-top: 15px;
+}
